@@ -1,0 +1,135 @@
+body {
+	background-color: #f1f1f1;
+	margin-left: 25%;
+	padding: 0;
+}
+.hat {
+	border: 0px solid black;
+	font-size: 0px;
+}
+.roof {
+	margin-left: 259px;
+}
+.pieceoftheshape {
+	margin-top: 60px;
+}
+#leftmenu1 {
+	width: 225px;
+	background-color: #cfeafc;
+	border: 1px solid #0b6b98;
+	margin-top: 10px;
+	float: left;
+}
+#leftmenu2 {
+	position: absolute;
+	width: 225px;
+	background-color: #cfeafc;
+	border: 1px solid #0b6b98;
+	margin-top: 190px;
+	padding-bottom: 15px;
+}
+#leftmenu3 {
+	position: absolute;
+	width: 225px;
+	background-color: #cfeafc;
+	border: 1px solid #0b6b98;
+	margin-top: 350px;
+	padding-bottom: 10px;
+}
+#leftmenu4 {
+	position: absolute;
+	width: 225px;
+	background-color: #cfeafc;
+	border: 1px solid #0b6b98;
+	margin-top: 530px;
+	padding-bottom: 10px;
+}
+#leftmenu5 {
+	position: absolute;
+	width: 225px;
+	background-color: #cfeafc;
+	border: 1px solid #0b6b98;
+	margin-top: 638px;
+	padding-bottom: 15px;
+}
+.textheader1 {
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 10px;
+	color: #f1f1f1;
+	font-family: "Lucida Console", monospace;
+	font-weight: bold;
+	font-size: 12px;
+}
+.hreflink {
+	color: #0b6b98;
+	font-family: monospace;
+	font-size: 14px;
+	margin-left: 25px;
+}
+a {
+	color: #0b6b98;
+	font-family: monospace;
+}
+.menuico {
+	position: absolute;
+	margin-top: 4px;
+}
+.link {
+	margin-top: 5px;
+}
+.main {
+	float: left;
+	background-color: #fff;
+	border: 1px solid #0b6b98;
+	margin-top: 10px;
+	margin-left: 10px;
+	padding-bottom: 25px;
+	width: 515px;
+	padding-right: 10px;
+}
+.textheader2 {
+	position: absolute;
+	margin-top: 15px;
+	margin-left: 10px;
+	color: #f1f1f1;
+	font-family: "Lucida Console", monospace;
+	font-weight: bold;
+	font-size: 12px;
+}
+#mainheading {
+	color: #0b6b98;
+	margin-top: 5px;
+	padding-left: 15px;
+	padding-bottom: 25px;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 18px;
+}
+#mainheading2 {
+	color: #0b6b98;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 15px;
+}
+#titleimg {
+	width: 200px;
+	float:left;
+    margin: 7px 7px 7px;
+}
+.maininfo {
+	padding-left: 30px;
+	font-family: monospace;
+	font-size: 14px;
+}
+.foot {
+	position: absolute;
+	width: 762px;
+	height: 50px;
+	border: 1px solid #0b6b98;
+	margin-top: 1560px;
+	margin-bottom: 100px;
+	background-color: #ddd;
+	color: #f1f1f1;
+	background: linear-gradient(to top, #1d6992, #2e9fdb);
+}
